@@ -1,6 +1,6 @@
 
-$clientId = "clientId"
 $tenantId = "tenantId"
+$clientId = "clientId"
 $certificateThumbprint = "certificateThumbprint"
 
 
